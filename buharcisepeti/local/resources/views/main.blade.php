@@ -21,12 +21,7 @@
         </script>
     </head>
     <body>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12"><div class="text-center"><img src="img/sepet.png" alt=""></div></div>
-      </div>
-    </div>
-    
+        
             @yield('message')
         
             @yield('content')
